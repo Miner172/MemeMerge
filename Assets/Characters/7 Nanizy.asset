@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35626f08c886db44db7248d53b00d389, type: 3}
+  m_Name: 7 Nanizy
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: f780b73bf15b5a64aad7abb168658108, type: 3}
+  _name: "\u041D\u0430\u043D\u0438\u0437\u0443"
+  _price: 23
+  _level: 7
+  _clip: {fileID: 8300000, guid: 8c524f55215c0ad4181b8c2c68d152fe, type: 3}

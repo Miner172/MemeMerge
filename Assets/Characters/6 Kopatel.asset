@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35626f08c886db44db7248d53b00d389, type: 3}
+  m_Name: 6 Kopatel
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: 9c689a65624315947992560d0ba5b9a0, type: 3}
+  _name: "\u041A\u043E\u043F\u0430\u0442\u0435\u043B\u044C"
+  _price: 15
+  _level: 6
+  _clip: {fileID: 8300000, guid: bed9c6ab855b26040983e09bc4e4cd09, type: 3}

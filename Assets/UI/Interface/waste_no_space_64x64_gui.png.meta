@@ -1,0 +1,1633 @@
+fileFormatVersion: 2
+guid: 25c90bb4dd1cd6d4aabf1e799ce220a1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da33e1827c0d14444856d53b6f07d1c2
+      internalID: -43220228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 58
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9560b08d242df5488ca23b4c5ec46b6
+      internalID: -2000858585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 58
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6660446bdcb56498bf82a5097ee15f
+      internalID: 1225704952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed4ec645448b114dad91890ba63f8d4
+      internalID: 284624498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11891a63be5004aab346ff0e375ba4
+      internalID: 1228585019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 54
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d448fbb9a3b38c644b0bdea53226bd05
+      internalID: -624163196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 54
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b8e97cae2b0d4986eb9f041d54602
+      internalID: 553368039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 58
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06854e226e922a148a73be4cf3173224
+      internalID: -254808943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a22cfcbdc228742a589c6e236aba0c
+      internalID: 1853386384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fec85dda2455e8478847878a95f013f
+      internalID: 755984673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289bd05a6f983c4589e6875f9bf6a77
+      internalID: -405039903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 52
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12aa64a4b931bf6498096ae2d36f6d11
+      internalID: 1867286006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b43b4782bbd3d4987ef8273085b9fc
+      internalID: 66783056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 48
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b61ca128504046ade2d6bfedf06bc
+      internalID: 1427986735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 48
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846929007d5aac242ae1f341980547ad
+      internalID: -1568344300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 52
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926b9bd890ec9f54088c418a42edc802
+      internalID: -1382074024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 48
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec11bed63ee5b5544b7d050673fe888f
+      internalID: -2114063658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3aaa2c8071ff64b9ccf2e495bf8e53
+      internalID: 1517109938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecfbb918b376ec40b5ce454a6e78714
+      internalID: 1069643272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 46
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf4e727fcc62a409e3dfaa7721de7f
+      internalID: -1201774201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1659391ac7c395044acfef5c34db8424
+      internalID: 2043182694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1881dd85840f8646ac25477575b667f
+      internalID: 1089988002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 43
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1964e5527f9041e43b12578c4fba61e9
+      internalID: 762065449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_23
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 46
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa103fa908b11c47816e5a861fec60d
+      internalID: -283058580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5db70a56e74ffa41b889d735609b372
+      internalID: -303325772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68dc30b1cc02f44388cf7a36aff9c49
+      internalID: -1130615927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a14689abd5f0f4fb394f30a59c3abe
+      internalID: -2112190827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e895717c9cfe14986dda279e8bc9aa
+      internalID: -2060354441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_28
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 37
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0278be758a095a440acd921253fccba8
+      internalID: 958154013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 40
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97471b9a6c7d7a24caee990b4d7a4d66
+      internalID: 1290666619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820d869cb7a87cd4fbd85984f7d9caa1
+      internalID: 1614023607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095e0f87626d5db448d055658f45ffb3
+      internalID: 188045002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 34
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7adc6c7dd636d54db2ae84f6deb1a41
+      internalID: 494671821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_33
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 29
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e782a89fa3fc3ee49a41f9c9a018c4a2
+      internalID: 1463379147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1520299ce7d5547871f5f0db66c499
+      internalID: 529296015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_35
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3eb609439705e449cfdd361e0da4c3
+      internalID: 532689079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51b2e8528a4134ebe9d6bbac06d133
+      internalID: -1596026899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab02bd40ac35a54c8edb136a3715f00
+      internalID: -2062074539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46d7e0b88d11b4a9eb2e8371062693
+      internalID: 1442264189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 28
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a0721a83d0bd54dbb60d5ef76f7800
+      internalID: -992463621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 23
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d80c0a536092d74584931bd5b14bc99
+      internalID: 2097529043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 21
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f09bbc51da8c84cb323c0cb34b9e19
+      internalID: -1566621375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a92894d66bb9347b7aa63ada07f629
+      internalID: -1254805639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_43
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 22
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61121bcadd657b84c8b86b38c979f581
+      internalID: -1317006349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f2095cab496f840868586722f51c98
+      internalID: 1191943865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_45
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42606ca91fe34f44fbcedb365abba069
+      internalID: -641423389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dd2a093c97ffd41ac9c805081c0057
+      internalID: 630637623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_47
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db0876cd5e7ea14a812ff49bcc1bfc4
+      internalID: 323441862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 16
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7753d9e60dee774195b9eacb7306332
+      internalID: -158192225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 16
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7815eb5bc0bd0408971d8b616db081
+      internalID: -1561956458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_50
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d6d57d5666954ba0c08b9fe475627
+      internalID: 1695305226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a9176aae0ee924c83fde8f851260d2
+      internalID: 49108916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_52
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba174c9315ca74aa689c667a0bb29f
+      internalID: -801637941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 12
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4287bc835c3ad4481c200e952b9600
+      internalID: 1417232815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_54
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f7963207c1d7540a0a70145e887ceb
+      internalID: 1573636991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 11
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b677bbd95b461174fae85995e789a326
+      internalID: -1874480153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce94c76b84e5c244fb66fde15ae57c75
+      internalID: -1058902022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_57
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 7
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b4f114476e36f44aec58218d0aa3ca
+      internalID: 1900944675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e718fa575eb3646851f15ae78e5d1c
+      internalID: 1744906809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dec0b3ea49613248b3d48862ef47aab
+      internalID: -524523687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_60
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9519019676a17e41801e27ed0c4b5b3
+      internalID: -760428304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_61
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b716b412b8470409eae00e43c5a29a
+      internalID: -1640507070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d9e7061eeb35e4aa5b40a4bfc507c6
+      internalID: 497708329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942931a9bec13c243b55508ede5a625d
+      internalID: 993676316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ead50ce4e42643af33e9fc2b15a90
+      internalID: 1178192483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115e1591bc2a970448c8eb4085bdd73a
+      internalID: 163515914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: waste_no_space_64x64_gui_66
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefdbadee7008a14a87977f8664ee336
+      internalID: -789251402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      waste_no_space_64x64_gui_61: -1640507070
+      waste_no_space_64x64_gui_57: 1900944675
+      waste_no_space_64x64_gui_28: 958154013
+      waste_no_space_64x64_gui_7: -254808943
+      waste_no_space_64x64_gui_45: -641423389
+      waste_no_space_64x64_gui_48: -158192225
+      waste_no_space_64x64_gui_6: 553368039
+      waste_no_space_64x64_gui_23: -283058580
+      waste_no_space_64x64_gui_42: -1254805639
+      waste_no_space_64x64_gui_51: 49108916
+      waste_no_space_64x64_gui_17: 1517109938
+      waste_no_space_64x64_gui_55: -1874480153
+      waste_no_space_64x64_gui_11: 1867286006
+      waste_no_space_64x64_gui_41: -1566621375
+      waste_no_space_64x64_gui_29: 1290666619
+      waste_no_space_64x64_gui_64: 1178192483
+      waste_no_space_64x64_gui_46: 630637623
+      waste_no_space_64x64_gui_1: -2000858585
+      waste_no_space_64x64_gui_4: 1228585019
+      waste_no_space_64x64_gui_54: 1573636991
+      waste_no_space_64x64_gui_66: -789251402
+      waste_no_space_64x64_gui_21: 1089988002
+      waste_no_space_64x64_gui_34: 529296015
+      waste_no_space_64x64_gui_15: -1382074024
+      waste_no_space_64x64_gui_60: -760428304
+      waste_no_space_64x64_gui_32: 494671821
+      waste_no_space_64x64_gui_37: -2062074539
+      waste_no_space_64x64_gui_24: -303325772
+      waste_no_space_64x64_gui_26: -2112190827
+      waste_no_space_64x64_gui_65: 163515914
+      waste_no_space_64x64_gui_47: 323441862
+      waste_no_space_64x64_gui_30: 1614023607
+      waste_no_space_64x64_gui_2: 1225704952
+      waste_no_space_64x64_gui_16: -2114063658
+      waste_no_space_64x64_gui_56: -1058902022
+      waste_no_space_64x64_gui_19: -1201774201
+      waste_no_space_64x64_gui_39: -992463621
+      waste_no_space_64x64_gui_9: 755984673
+      waste_no_space_64x64_gui_5: -624163196
+      waste_no_space_64x64_gui_35: 532689079
+      waste_no_space_64x64_gui_18: 1069643272
+      waste_no_space_64x64_gui_49: -1561956458
+      waste_no_space_64x64_gui_8: 1853386384
+      waste_no_space_64x64_gui_44: 1191943865
+      waste_no_space_64x64_gui_10: -405039903
+      waste_no_space_64x64_gui_59: -524523687
+      waste_no_space_64x64_gui_0: -43220228
+      waste_no_space_64x64_gui_53: 1417232815
+      waste_no_space_64x64_gui_43: -1317006349
+      waste_no_space_64x64_gui_31: 188045002
+      waste_no_space_64x64_gui_40: 2097529043
+      waste_no_space_64x64_gui_62: 497708329
+      waste_no_space_64x64_gui_13: 1427986735
+      waste_no_space_64x64_gui_14: -1568344300
+      waste_no_space_64x64_gui_22: 762065449
+      waste_no_space_64x64_gui_3: 284624498
+      waste_no_space_64x64_gui_25: -1130615927
+      waste_no_space_64x64_gui_33: 1463379147
+      waste_no_space_64x64_gui_38: 1442264189
+      waste_no_space_64x64_gui_27: -2060354441
+      waste_no_space_64x64_gui_50: 1695305226
+      waste_no_space_64x64_gui_12: 66783056
+      waste_no_space_64x64_gui_36: -1596026899
+      waste_no_space_64x64_gui_52: -801637941
+      waste_no_space_64x64_gui_20: 2043182694
+      waste_no_space_64x64_gui_63: 993676316
+      waste_no_space_64x64_gui_58: 1744906809
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

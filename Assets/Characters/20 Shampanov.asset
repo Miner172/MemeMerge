@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35626f08c886db44db7248d53b00d389, type: 3}
+  m_Name: 20 Shampanov
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 21300000, guid: af0a4a97a60479548b5d0bed008d8c78, type: 3}
+  _name: "\u0428\u0430\u043C\u043F\u0430\u043D\u043E\u0432"
+  _price: 4433
+  _level: 20
+  _clip: {fileID: 8300000, guid: 0e43505f1d6064c4b9ae7396bc552a4f, type: 3}
